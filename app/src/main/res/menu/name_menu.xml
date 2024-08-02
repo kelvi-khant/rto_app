@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/popupmenu"
+   >
+    <item android:drawable="@drawable/popupmenu"
+        android:id="@+id/option_1"
+        android:title="@string/All" />
+    <item
+        android:drawable="@drawable/popupmenu"
+        android:id="@+id/option_2"
+        android:title="@string/Bookmark" />
+
+
+</menu>

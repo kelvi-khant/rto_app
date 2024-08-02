@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   >
+
+    <LinearLayout
+        android:layout_width="412dp"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintBottom_toBottomOf="parent"
+    >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_24sdp">
+
+            <TextView
+                android:id="@+id/stopexam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:text="Stop Exam"
+                android:textColor="#000000"
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold">
+
+            </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_9sdp"
+
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/ratename"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:text="Are you sure you want to stop this Exam?"
+                android:layout_marginEnd="@dimen/_15sdp"
+                android:textColor="#7A7979"
+                android:textSize="@dimen/_14sdp">
+
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:gravity="center"
+            android:layout_gravity="center"
+
+           >
+
+            <Button
+                android:id="@+id/btnno"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="wrap_content"
+
+                android:backgroundTint="#0000"
+                android:shadowColor="#5C5C5C"
+                android:text="No"
+                android:textColor="#7C7A7A"
+                android:textSize="@dimen/_14sdp">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btnyes"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:backgroundTint="#0000"
+                android:text="YES"
+                android:textColor="#7C7A7A"
+                android:textSize="@dimen/_14sdp">
+
+            </Button>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

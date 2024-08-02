@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">RTO</string>
+    <string name="exam">Exam</string>
+    <string name="tab2">Tab2</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question_bank">Question Bank</string>
+    <string name="practice">Practice</string>
+    <string name="driving_schools">Driving Schools</string>
+    <string name="settings_amp_help"><![CDATA[Settings & Help]]></string>
+    <string name="list_of_questions_amp_answers_and_meaning_of_road_signs" translatable="false"><![CDATA[List of questions & answers and meaning of road signs]]></string>
+    <string name="test_your_knowledge_without_worrying_about_time">Test your knowledge without worrying about time</string>
+    <string name="time_and_question_bound_test_exactly_same_as_actual_rto_test" translatable="false">Time and question bound test exactly same as actual RTO test</string>
+    <string name="search_and_connect_with_driving_schools_around_you" translatable="false">Search and connect with driving schools around you</string>
+    <string name="language_selection_forms_rto_office_infromation_and_more" translatable="false">Language selection, forms, RTO office infromation and more</string>
+
+
+    <string name="Question1">1.Near a pedestrain crossing,when the pedestrians are waiting to cross the road,you should...</string>
+    <string name="Question2">2.When vehicle is involved in an accident causing injury to any person...</string>
+    <string name="Question3">3.On a road designated as one way...</string>
+    <string name="Question4">4.You can overtake a vehicle in front....</string>
+    <string name="Question5">5.Wheen a vehicle appriaches an unguarded railway level crossing before crossing it,the driver shall...</string>
+    <string name="Question6">6.How can you distinguish a transport vehicle?</string>
+    <string name="Question7">7.Validity of learners licebce....</string>
+    <string name="Question8">8.In a road without footpath,the pedestrians........</string>
+    <string name="ans1" translatable="false">A.Stop the vehicle and wait till the pedestrains cross the road and then proceed</string>
+    <string name="ans2" translatable="false">A.Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24 hours</string>
+    <string name="ans3" translatable="false">A. Should not drivein reverse gear</string>
+    <string name="ans4" translatable="false">A.Through the right side of that vehicle</string>
+    <string name="ans5" translatable="false">A.Stop the vehicle on the left side of the road, get down from the vehicle, go to the railwat treack,and ensure that no train or trolley is coming from either side</string>
+    <string name="ans6" translatable="false">A.By looking at the number plate of the vehicle</string>
+    <string name="ans7" translatable="false">A.6 months</string>
+    <string name="ans8" translatable="false">A.Should walk on the right side of the road"</string>
+
+
+    <string name="trafficname1">Stop</string>
+    <string name="trafficname2">Give Way</string>
+    <string name="trafficname3">No Entry</string>
+    <string name="trafficname4">No entry for cars and motorcycles</string>
+    <string name="trafficname5">Trucks are Prohibited</string>
+    <string name="trafficname6">Bullock cart prohibited</string>
+    <string name="trafficname7">First-Aid Post</string>
+    <string name="trafficname8">Pedestrians Prohibited</string>
+    <string name="trafficname9">Right Trun Prohibited</string>
+    <string name="trafficname10">U-Trun Prohibited</string>
+    <string name="trafficname11">Maximum Speed Limit</string>
+    <string name="trafficname12">No Parking</string>
+    <string name="trafficname13">No Stopping and Standing</string>
+    <string name="trafficname14">Compulsory Trun Left</string>
+    <string name="trafficname15">Compulsory Ahead Only</string>
+    <string name="trafficname16">Compulsory Ahead or Trun Right</string>
+    <string name="trafficname17">Compulsory ahead or trun left</string>
+    <string name="trafficname18">Compulsory Keep Left</string>
+    <string name="trafficname19">Compulsory Trun Right</string>
+    <string name="trafficname20">Petrol Pump</string>
+    <string name="trafficname21">Right Hand Cureve</string>
+    <string name="trafficname22">Round About</string>
+
+    <string name="change_state">Change State</string>
+    <string name="change_language">Change Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="forms">Forms</string>
+    <string name="process_of_driving_licence" translatable="false">Process of Driving Licence</string>
+    <string name="rto_offices">RTO Offices</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="add_driving_school">Add Driving School</string>
+    <string name="share_app" translatable="false">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_amp_conditions">Terms &amp; Conditions</string>
+    <string name="math_master_brain_quizzes">Math Master - Brain Quizzes</string>
+    <string name="a_to_z_converter" translatable="false">A to Z Converter</string>
+    <string name="quoted">Quoted</string>
+    <string name="share_amp_rate"><![CDATA[Share & Rate]]></string>
+    <string name="other_apps" translatable="false">Other Apps</string>
+
+
+    <string name="name" translatable="false">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number_optional" translatable="false">Phone Number(optional)</string>
+    <string name="city" translatable="false">City</string>
+    <string name="message" translatable="false">Message</string>
+    <string name="reset">RESET</string>
+    <string name="send">SEND</string>
+    <string name="or">OR</string>
+    <string name="state" translatable="false">State</string>
+    <string name="driving_school_name" translatable="false">Driving School Name</string>
+    <string name="address" translatable="false">Address</string>
+    <string name="contact_person" translatable="false">Contact Person</string>
+    <string name="email_optional" translatable="false">Email(Optional)</string>
+    <string name="mobile" translatable="false">Mobile</string>
+    <string name="message_optional" translatable="false">Message(Optional)</string>
+
+
+    <string name="instructions" translatable="false">Instructions</string>
+    <string name="subject_like_rules_and_regulations_of_traffic_and_traffic_signage_s_are_inclided_in_the_test" translatable="false">• Subject like Rules and Regulations of traffic, and traffic signage\'s are inclided in the test.</string>
+    <string name="_15_questions_are_asked_in_the_at_random_out_of_which_11_question_are_required_to_be_answered_correctiy_to_pass_the_test" translatable="false">• 15 questions are asked in the at random, out of which 11 question are required to be answered correctiy to pass the test.</string>
+    <string name="_48_seconds_are_allowed_to_answer_each_question" translatable="false">• 48 seconds are allowed to answer each question.</string>
+    <string name="start_exam" translatable="false">START EXAM</string>
+    <string name="previous" translatable="false">PREVIOUS</string>
+    <string name="next" translatable="false">NEXT</string>
+    <string name="next_question" translatable="false">NEXT QUESTION</string>
+    <string name="gujrati" translatable="false">gujrati</string>
+    <string name="auto" translatable="false">Auto</string>
+    <string name="on" translatable="false">On</string>
+    <string name="off" translatable="false">off</string>
+    <string name="Contact_Us" translatable="false">Contact Us</string>
+
+
+    <string name="practicequestion1" translatable="false">Q.The mandatory signs giving orders are mostly in....</string>
+
+
+    <string name="practicequestion2" translatable="false">Q.Which  Sign  denotes  "stop" ?</string>
+
+    <string name="practicequestion3" translatable="false">Q.Which  Sign  denotes  "Compulsory Trun Right" ?</string>
+
+    <string name="practicequestion4" translatable="false">Q.Motor cyclist usually cause hazard by..... </string>
+
+
+    <string name="practicequestion5" translatable="false">Q.While traveling over motorway at night with other vehicles just ahead,better the switched on lights should be... </string>
+
+
+    <string name="practicequestion6" translatable="false">Q.This sign represents</string>
+
+
+    <string name="practicequestion7" translatable="false">Q.Which Sign denotes " Give Way" ?</string>
+
+
+    <string name="practicequestion8" translatable="false">Q.Motor cyclists usually cause hazard by....</string>
+    <string name="ans81" translatable="false">passing very close toyou by driving in the zigzag manner</string>
+    <string name="ans82" translatable="false">Speed more than permitted</string>
+    <string name="ans83" translatable="false">all of the above</string>
+
+    <string name="practicequestion9" translatable="false">Q.you are driving on a well-lit motorway at night, you must...</string>
+    <string name="ans91" translatable="false">use your headlight on high beam</string>
+    <string name="ans92" translatable="false">always use your headlight in low beam</string>
+    <string name="ans93" translatable="false">always use hazard light</string>
+
+    <string name="ans11" translatable="false">Red/Blue circles</string>
+    <string name="ans12" translatable="false">Red Triangles</string>
+    <string name="ans13" translatable="false">Base Triangles</string>
+
+    <string name="ans41" translatable="false">passing very close to you by driving in the zigzag manner</string>
+    <string name="ans42" translatable="false">Speed more than permitted</string>
+    <string name="ans43" translatable="false">All of the above</string>
+
+    <string name="ans51" translatable="false">hazard warning light</string>
+    <string name="ans52" translatable="false">low beam headlight</string>
+    <string name="ans53" translatable="false">high beam headlight</string>
+
+    <string name="ans61" translatable="false">Stop</string>
+    <string name="ans62" translatable="false">No Parking</string>
+    <string name="ans63" translatable="false">Hospital ahead</string>
+
+    <string name="QUESTIONS" translatable="false">Questions</string>
+    <string name="TRAFFIC_SIGNS" translatable="false">Traffic Signs</string>
+
+    <string name="Forms" translatable="false">" Forms"</string>
+    <string name="Process_of_Driving_Licence" translatable="false">"Process_of_Driving_Licence              "</string>
+
+    <string name="process1" translatable="false">Application Form n n          .In order to obtain a new driving license the applicant is required to obtain a learning license.n          .For the purpose of both learning and driving licence, the applicant is required to apply in Form No. 2/4, also attaching a medical certificate in Form No. 1 (A). If the individual desires, obtain a driving license for a transport goods vehicle, and To book an appointment online or for more details, please visit:n                  eligibilityn                  A person must have completed 16 years to obtain a license for 2 wheelers without gear.n                  A person must have completed 18 years of age to obtain a license for 2 wheelers with gear, motor-cars, tractors and other non-transport vehicles.n                  For transport vehicles, a person should have completed 20 years. In addition he should have passed 8th standard and should have 1 year experience in driving a light motor vehicle.n                  Required Documentsn                  Proof of Agen                  School Leaving Certificate, Birth Certificate, Passport, PAN Card, L.I.C. Policy or Civil Surgeon or equivalent doctor\'s certificate can be submitted as proof of age.n                  Address Proofn                  Can be School Leaving Certificate, Passport, L.I.C. Policy, Electoral Voter I-Card, Light Bill, Telephone Bill, House Tax Receipt with address, Central/State/Local Government pay-slip or an affidavit to that effect from the applicant. For Address Submitted as evidence.n                  feen                  Fee for learning license and driving license to be paid together. Rs. 25/- as test fee plus Rs. 30/- per category of vehicle to be paid for learning license.n                  Rs. 200/- for smart card driving license and Rs. 50/- for driving license per vehicle category.n                  Examination Processn                  To obtain a learning license, a computer-based knowledge test is required.n                  Subjects like traffic rules and regulations and traffic signage are covered in the test.n                  The exam consists of 15 questions randomly asked, of which 11 questions are required to pass the exam.n                  You have 48 seconds to answer each question.n                  A person who fails the test can appear for the test again after an interval of 24 hours.n                  A person who holds a learning license or a driving license and wishes to apply for an additional category of driving license to the existing driving licence, is exempted from the computer-based knowledge test.n</string>
+    <string name="process2" translatable="false">"To add another category to the existing license for two wheelers                   For driving license Rs. 50/- Application should be made in Form-8 for attaching original driving license, for smart card driving license Rs. 200/- and for driving test Rs. 50/- fee has to be paid. Pay with the app.                   The applicant is required to obtain a learning license, but is exempted from the computer knowledge test.                   The applicant can appear for the driving test after an interval of 30 days after obtaining the learning license.                   L.M.V. Addition of transport vehicle category to licence                   Application is made in Form No. 8 and original driving license is required to be attached.                   Applicant must have completed 20 years.                   Minimum standard 8 pass, and                   L.M.V. Having at least 1 year of driving experience                   The applicant should also produce a training certificate from a recognized motor driving school in Form No. 5.                   For Smart Card Rs. 200/- for driving license with Rs. 50/- per vehicle category and Rs. 50/- driving test fee is required to be paid along with the application.                   Please note, the applicant is required to take a learning license, but is exempted from the computer knowledge test.                   To obtain a badge or authorization for a transport vehicle                   Application form T.V.A. should be done in                  The applicant must have completed 20 years and must have passed minimum standard-8th, and                   L.M.V. Having at least 1 year of driving experience                   The applicant should also produce a training certificate in No. 5 from an authorized motor driving school.                   He should also produce a good conduct certificate from the concerned police station.                   For this purpose for each category of vehicle Rs. A fee of 50/- is required to be paid                   Inclusion of category of dangerous goods in transport driving licence                   Application can be made on a plain paper showing the details of the applicant.                   Application should be accompanied by 3 days training certificate from center or center recognized by state government.                   For endorsement Rs. 50/- fee has to be paid.                   The endorsement is made for a period of one year.     "</string>
+    <string name="process3" translatable="false">The driving license is valid till the date mentioned in the driving licence.                   A grace period of 30 days is given to renew the driving license.                   If the driving license holder comes for renewal within 5 years from the date of expiry, he is exempted from the test, but the license is valid from the date of renewal.                   Application for renewal of driving license should be made in Form-9 attached with the original driving license.                   If the applicant has completed the age of 50 years or has applied for renewal of driving license for a transport vehicle, a medical certificate in Form-1-A is required to be produced.                   If Rs. 200/- with smart card fee of Rs. A fee of 50/- has to be paid, if applied within the period.                   For delay, for every year of such delay Rs. An additional fee of 50/- has to be paid.                   If Original Driving License other R.T.O. or State, N.O.C of concerned R.T.O. should be attached.</string>
+    <string name="process4" translatable="false">Application should be made in form L.L.D. Along with original driving license details and Rs. A fee of 200/- has to be paid.</string>
+    <string name="process5" translatable="false">" To obtain an International Driving Licence, an application in Form 4 (A) should be made along with a medical certificate in Form - 1 (A).                   Copy of current driving license. Passport, visa and three passport size photos have to be attached with the application.                   For this purpose Rs. A fee of 500/- is required to be paid.                   The permit is issued for a period of one year or until the validity of the existing driving license, whichever is earlier.                   Duplicate International Driving Permits are not issued or renewed after expiry.                   International Driving Permits are not renewed once they expire.                   It should be noted that, such license is issued only to Indian citizens and they are issued by R.T.O. It is necessary to present in person."</string>
+    <string name="process6" translatable="false">The learning license is delivered to the applicant in person on the same day he/she appears for the knowledge test.                   The driving license is sent by speed post to the address mentioned by the applicant in his application.                   The International Driving Permit is issued to the applicant in person.</string>
+
+    <string name="processt1">New driving license</string>
+    <string name="processt2" translatable="false">Addition of another category to the existing driving license</string>
+    <string name="processt3" translatable="false">Renewal of Driving License</string>
+    <string name="processt4" translatable="false">To change or duplicate driving license details</string>
+    <string name="processt5" translatable="false">" International driving license or permit"</string>
+
+
+    <string name="city1" translatable="false">Gj01 - Ahmedabad\"</string>
+    <string name="city2" translatable="false">Gj02 - Mashana</string>
+    <string name="city3" translatable="false">Gj03 - Rajkot</string>
+    <string name="city4" translatable="false">Gj04 - Bhavnagar</string>
+    <string name="city5" translatable="false">Gj05 - Surat</string>
+    <string name="city6" translatable="false">Gj06 - Vadodara</string>
+    <string name="city7" translatable="false">Gj07 - Kheda (Nadiad)</string>
+    <string name="city8" translatable="false">Gj08 - Banaskantha (Palanpur)</string>
+    <string name="city9" translatable="false">Gj09 - Sabarkantha (Himatnagar)</string>
+    <string name="city10" translatable="false">Gj010 - Jamnagar</string>
+    <string name="city11" translatable="false">Gj011 - Junagadh</string>
+    <string name="city13" translatable="false">Gj013- Suendranagar</string>
+    <string name="city14" translatable="false">Gj014- Amreli</string>
+    <string name="city15" translatable="false">Gj015- Valsad</string>
+    <string name="city16" translatable="false">Gj016- Bharuch</string>
+    <string name="city17" translatable="false">Gj017- Panchmahal (Godhra)</string>
+    <string name="city18">Gj018- Gandhinagar</string>
+    <string name="city19">Gj019 - Dang(Bardoli)</string>
+    <string name="city20">Gj020- Dahod</string>
+    <string name="city21">Gj021- Navsari</string>
+    <string name="city22">Gj022 - Narmada (Rajpipla)</string>
+    <string name="city23">Gj023 -  Ananada</string>
+    <string name="city24">"                "</string>
+    <string name="city25">" +"</string>
+    <string name="city26">"                "</string>
+    <string name="city27">Gj027 - Ahmedabad East"        </string>
+    <string name="city30">Gj030 - Ahwa</string>
+    <string name="city31"> Gj031- Arvali(Modasa)"         </string>
+    <string name="city32"> Gj032- Veraval"                </string>
+    <string name="city33"> Gj033- Botad"                  </string>
+    <string name="city34"> Gj034- Chhota Udepur"          </string>
+    <string name="city35"> Gj035- Mahisagar(Lunavada)"    </string>
+    <string name="city36"> Gj036- Morbi"                  </string>
+    <string name="city37">Gj037 - Khambhaliya</string>
+    <string name="city38"> Gj038- Bavla"                  </string>
+    <string name="defination1" translatable="false">Last updated: May 11, 2021</string>
+    <string name="defination2">Last updated: Jul 23, 2021</string>
+    <string name="All" translatable="false">All</string>
+    <string name="Bookmark" translatable="false">Bookmark</string>
+    <string name="processt6" translatable="false">processt6</string>
+    <string name="city12" translatable="false">Gj012 - Kutch (Kutch-Bhuj)</string>
+    <string name="this_test_is_only_for_public_awareness_though_all_efforts_have_been_made_to_ensure_the_accurancyof_the_content_the_same_should_not_be_construed_as_a_statement_of_law_or_used_for_any_legal_purposses_this_application_accepts_no_responsibility_in_relation_to_the_accurancy_completeness_usefulness_or_otherwise_ofthe_contents_users_are_advised_to_verify_check_any_information_with_the_transport_department">This test is only for public awareness. THough all Efforts have been made to ensure the accurancyof the content, the same should not be construed as a statement of law or used for any legal purposses. This application accepts no responsibility in relation to the accurancy,completeness, usefulness or otherwise,ofthe contents.Usersare advised to verify/ check any information with the Transport Department.</string>
+    <string name="close">Close</string>
+    <string name="if_you_are_the_owner_of_a_driving_school_or_if_you_are_ausre_who_s_discovered_a_driving_school_not_listed_on_rto_exam_let_us_know_filling_this_form">If you are the owner of a driving school, or if you are ausre who\'s discovered a driving school not listed on Rto Exam, let us know filling this form.</string>
+    <string name="no_question_is_bookmarked_click_on_bookmark_icon_next_to_question_to_save_it_for_later">No question is bookmarked.Click on \'Bookmark\' icon next to question to save it for later.</string>
+    <string name="Questions">Questions</string>
+
+</resources>

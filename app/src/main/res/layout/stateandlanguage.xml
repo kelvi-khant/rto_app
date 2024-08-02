@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:background="#ECECEC"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="9"
+            android:paddingStart="@dimen/_9sdp"
+            android:text="Change State &amp; Language"
+            android:textSize="@dimen/_14sdp"
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:layout_width="57px"
+            android:layout_height="57px"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:paddingEnd="@dimen/_7sdp"
+            android:layout_marginRight="@dimen/_9sdp"
+            android:id="@+id/cancle"
+            android:src="@drawable/x">
+
+        </ImageView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:background="#DCDCDC"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:paddingStart="@dimen/_9sdp"
+        android:id="@+id/chnagestate"
+        android:onClick="chnagestate"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Change State"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:id="@+id/gujrati"
+            android:textSize="@dimen/_13sdp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/state"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_9sdp"
+            android:layout_weight="1"
+            android:drawableEnd="@drawable/ic_baseline_arrow_drop_down_24"
+            android:gravity="right"
+            android:paddingStart="@dimen/_15sdp"
+            android:text=""
+            android:textSize="@dimen/_11sdp">
+        </TextView>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:background="#DCDCDC"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:id="@+id/language"
+        android:paddingStart="@dimen/_9sdp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Change Language"
+            android:id="@+id/Hindi"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_13sdp">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingStart="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:id="@+id/chnagelanguage"
+            android:textSize="@dimen/_11sdp"
+            android:layout_marginEnd="@dimen/_9sdp"
+            android:drawableEnd="@drawable/ic_baseline_arrow_drop_down_24"
+            android:text="">
+        </TextView>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:background="#DCDCDC"/>
+
+
+
+</LinearLayout>
